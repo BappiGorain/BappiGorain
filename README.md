@@ -34,7 +34,7 @@
 
 
 
-## watch Snake is eating my github contributions
+## watch snake is eating my github contributions
 
 ![snake gif](https://github.com/BappiGorain/BappiGorain/blob/output/github-contribution-grid-snake.gif)
 
