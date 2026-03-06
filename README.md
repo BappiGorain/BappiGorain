@@ -12,9 +12,6 @@ Building scalable backend systems using <b>Java</b>, <b>Spring Boot</b>, and mod
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hello+👋;Hola+👋;Bonjour+👋;Hallo+👋;Ciao+👋;こんにちは+👋;नमस्ते+👋;안녕하세요+👋;Olá+👋;Привет+👋"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=BappiGorain&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
 
 <img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
