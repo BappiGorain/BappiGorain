@@ -1,55 +1,181 @@
+<h1 align="center">Hi 👋, I'm Bappi Gorain</h1>
 
-<h1 align="center">Hi 👋, I'm Bappi</h1>
-<h3 align="center">A passionate Java Full Stack Developer and problem-solver</h3>
+<h3 align="center">
+Java Backend Developer | Spring Boot Engineer | API Architect
+</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-
-
-- 🔭 I’m currently working on **problem solving and creating APIs**
-
-- 🌱 I’m currently learning **Spring Framework**
-
-- 📫 How to reach me **bappigorain08312@gmail.com**
-
-<h3 align="left">Code with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/bappigorain08312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bappigorain08312" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/bappigorain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/bappigorain" height="30" width="40" /></a>
+<p align="center">
+Building scalable backend systems using <b>Java</b>, <b>Spring Boot</b>, and modern backend engineering practices.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hello+👋;Hola+👋;Bonjour+👋;Hallo+👋;Ciao+👋;こんにちは+👋;नमस्ते+👋;안녕하세요+👋;Olá+👋;Привет+👋"/>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=bappigorain&theme=onestar" alt="bappigorain" /></a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=BappiGorain&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+---
 
+# 👨‍💻 About Me
 
+* Backend Developer focused on **Java & Spring Boot**
+* Passionate about **API design, system architecture, and backend performance**
+* Strong interest in **scalable backend systems**
+* Enjoy solving **algorithmic and real-world engineering problems**
+* Currently exploring **advanced Spring ecosystem and backend design patterns**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bappigorain&show_icons=true&locale=en&layout=compact" alt="bappigorain" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bappigorain&show_icons=true&locale=en" alt="bappigorain" /></p>
+# 🚀 Current Focus
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bappigorain&" alt="bappigorain" /> </p>
+* Building **REST APIs using Spring Boot**
+* Improving **problem-solving ability**
+* Learning **system design concepts**
+* Writing **clean, maintainable production code**
 
+---
 
+# 🧠 Tech Stack
 
-## watch snake is eating my github contributions
+### Languages
 
-![snake gif](https://github.com/BappiGorain/BappiGorain/blob/output/github-contribution-grid-snake.gif)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
-<!--
-**BappiGorain/BappiGorain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend
 
-Here are some ideas to get you started:
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-black?style=for-the-badge\&logo=intellijidea)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BappiGorain&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BappiGorain&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=BappiGorain&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BappiGorain&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=BappiGorain&theme=algolia&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🎮 3D Contribution Graph
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BappiGorain&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🧩 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/BappiGorain">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BappiGorain&repo=SpringBoot-Ecommerce&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/BappiGorain">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BappiGorain&repo=JWT-Authentication&theme=tokyonight"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/BappiGorain">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BappiGorain&repo=REST-API-Project&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/BappiGorain">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BappiGorain&repo=DSA-Solutions&theme=tokyonight"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+
+<img src="https://github.com/BappiGorain/BappiGorain/blob/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🌐 Coding Profiles
+
+💻 HackerRank
+https://www.hackerrank.com/bappigorain08312
+
+📘 GeeksforGeeks
+https://www.geeksforgeeks.org/user/bappigorain/
+
+---
+
+# 📫 Contact
+
+📧 **Email**
+[bappigorain08312@gmail.com](mailto:bappigorain08312@gmail.com)
+
+---
+
+# 💡 Developer Philosophy
+
+> Clean code, scalable architecture, and continuous learning.
+
+I believe great software is built through **clarity, simplicity, strong engineering fundamentals, and continuous improvement.**
+
+---
+
+⭐ If you find my projects interesting, feel free to **star the repositories.**
