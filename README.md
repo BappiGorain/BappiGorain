@@ -117,11 +117,11 @@ Building scalable backend systems using <b>Java</b>, <b>Spring Boot</b>, and mod
 <p align="center">
 
 <a href="https://github.com/BappiGorain">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BappiGorain&repo=SpringBoot-Ecommerce&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BappiGorain&repo=E-Commerce-Application&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/BappiGorain">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BappiGorain&repo=JWT-Authentication&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BappiGorain&repo=Sudoku-Game&theme=tokyonight"/>
 </a>
 
 </p>
