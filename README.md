@@ -1,23 +1,29 @@
-<h1 align="center">Hi 👋, I'm Bappi Gorain</h1>
-
-<h3 align="center">
-Java Backend Developer | Spring Boot Engineer | API Architect
-</h3>
-
 <p align="center">
-Building scalable backend systems using <b>Java</b>, <b>Spring Boot</b>, and modern backend engineering practices.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=220&section=header&text=Bappi%20Gorain&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hello+👋;Hola+👋;Bonjour+👋;Hallo+👋;Ciao+👋;こんにちは+👋;नमस्ते+👋;안녕하세요+👋;Olá+👋;Привет+👋"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+Engineer;API+Architect;Clean+Code+Advocate;System+Design+Learner"/>
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=BappiGorain&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
-<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+---
+
+# ⚙️ Backend Engineering Mode
+
+
+<p align="center">
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="650"/>
+</p>>
 
 ---
 
 # 👨‍💻 About Me
+
+<img align="right" alt="coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 * Backend Developer focused on **Java & Spring Boot**
 * Passionate about **API design, system architecture, and backend performance**
@@ -82,6 +88,36 @@ Building scalable backend systems using <b>Java</b>, <b>Spring Boot</b>, and mod
 
 ---
 
+# 📊 GitHub Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BappiGorain&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BappiGorain&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BappiGorain&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BappiGorain&theme=tokyonight&utcOffset=5.5"/>
+
+</p>>
+
+---
+
+# 🌆 3D GitHub Skyline
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BappiGorain&theme=tokyonight"/>
+
+</p>
+
+---
+
 # 📈 Contribution Activity Graph
 
 <p align="center">
@@ -92,35 +128,15 @@ Building scalable backend systems using <b>Java</b>, <b>Spring Boot</b>, and mod
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BappiGorain&theme=algolia&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 🎮 3D Contribution Graph
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BappiGorain&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🧩 Featured Projects
 
 <p align="center">
 
-<a href="https://github.com/BappiGorain">
+<a href="https://github.com/BappiGorain/E-Commerce-Application">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=BappiGorain&repo=E-Commerce-Application&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/BappiGorain">
+<a href="https://github.com/BappiGorain/Sudoku-Game">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=BappiGorain&repo=Sudoku-Game&theme=tokyonight"/>
 </a>
 
@@ -128,11 +144,11 @@ Building scalable backend systems using <b>Java</b>, <b>Spring Boot</b>, and mod
 
 <p align="center">
 
-<a href="https://github.com/BappiGorain">
+<a href="https://github.com/BappiGorain/REST-API-Project">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=BappiGorain&repo=REST-API-Project&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/BappiGorain">
+<a href="https://github.com/BappiGorain/DSA-Solutions">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=BappiGorain&repo=DSA-Solutions&theme=tokyonight"/>
 </a>
 
@@ -152,10 +168,10 @@ Building scalable backend systems using <b>Java</b>, <b>Spring Boot</b>, and mod
 
 # 🌐 Coding Profiles
 
-💻 HackerRank
+💻 **HackerRank**
 https://www.hackerrank.com/bappigorain08312
 
-📘 GeeksforGeeks
+📘 **GeeksforGeeks**
 https://www.geeksforgeeks.org/user/bappigorain/
 
 ---
@@ -171,7 +187,7 @@ https://www.geeksforgeeks.org/user/bappigorain/
 
 > Clean code, scalable architecture, and continuous learning.
 
-I believe great software is built through **clarity, simplicity, strong engineering fundamentals, and continuous improvement.**
+Great software is built through **clarity, simplicity, strong engineering fundamentals, and continuous improvement.**
 
 ---
 
