@@ -145,11 +145,11 @@
 <p align="center">
 
 <a href="https://github.com/BappiGorain/Tic_Tac_Toe_With_AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BappiGorain&repo=REST-API-Project&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BappiGorain&repo=Tic_Tac_Toe_With_AI&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/BappiGorain/Timber-Man-Game">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BappiGorain&repo=DSA-Solutions&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BappiGorain&repo=Timber-Man-Game&theme=tokyonight"/>
 </a>
 
 </p>
