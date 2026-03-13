@@ -144,11 +144,11 @@
 
 <p align="center">
 
-<a href="https://github.com/BappiGorain/REST-API-Project">
+<a href="https://github.com/BappiGorain/Tic_Tac_Toe_With_AI">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=BappiGorain&repo=REST-API-Project&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/BappiGorain/DSA-Solutions">
+<a href="https://github.com/BappiGorain/Timber-Man-Game">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=BappiGorain&repo=DSA-Solutions&theme=tokyonight"/>
 </a>
 
