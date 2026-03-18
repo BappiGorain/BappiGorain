@@ -8,11 +8,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: VishalSingh-07/pacman-contribution-graph@main
+      - name: Generate Pacman
+        uses: Platane/snk@v3
         with:
           github_user_name: BappiGorain
+          outputs: |
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark&animation=pacman
 
-      - name: Deploy files
+      - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
