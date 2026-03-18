@@ -10,17 +10,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: generate pacman graph
+      - name: Generate pacman graph
         uses: Platane/snk@v3
         with:
           github_user_name: BappiGorain
           outputs: |
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
-      - name: push generated files
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
